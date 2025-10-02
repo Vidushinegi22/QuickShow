@@ -45,5 +45,7 @@ Contributions are welcome! If you'd like to contribute to this project.
 If you have any questions, feedback, or would like to get in touch, please reach out to:
 
 Vidushi Negi
+
 Email: vidushinegi24@gmail.com
+
 GitHub:https://github.com/Vidushinegi22
