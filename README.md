@@ -28,17 +28,23 @@ Getting your development environment set up is fairly straightforward:
 2.Start the React app by running npm start in the client directory.
 3.Access the app in your browser at http://localhost:3000.
 # Technologies Used
-MongoDB with Mongoose
-Node.js
+MongoDB 
+
+React
+
+Node.js 
+
 Express.js
-Password Encryption in MERN
-Admin Accounts
-JWT Authentication
-React.js
-Material UI
-Redux Toolkit
-Axios
-ES6
+
+Inngest (for background jobs)
+
+Nodemailer (for email notifications)
+
+Stripe (for payments)
+
+Clerk (for authentication)
+
+MongoDB Atlas (cloud-hosted DB)
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project.
 
